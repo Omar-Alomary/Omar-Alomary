@@ -10,7 +10,7 @@ I'm a Software Engineer with 4+ years of experience in software development, inc
 
 - Build cross-platform mobile apps using Flutter and Dart
 - Integrate REST APIs for real-time data
-- Design and optimize relational databases
+- Design relational databases and write SQL queries
 - Work within Agile/Scrum teams using YouTrack
 
 ---
