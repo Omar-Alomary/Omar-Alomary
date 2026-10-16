@@ -24,7 +24,7 @@ I'm a Software Engineer with 4+ years of experience in software development, inc
 
 **Backend:**
 - ASP.NET Core, C#
-- SQL Server
+- SQL Server, PostgreSQL
 
 **Tools:**
 - Git, GitHub
@@ -32,9 +32,21 @@ I'm a Software Engineer with 4+ years of experience in software development, inc
 
 ---
 
+### 💼 Professional Work
+
+I have developed real-world projects at **Al-Eritqa Soft**, including:
+
+- A **recharge and bill payment application** serving thousands of users.
+- An **SMS application** for managing customer messages.
+- The **company's official website** ([ertiqasoft.net](https://ertiqasoft.net/)), built with HTML, CSS, and JavaScript.
+
+> **Note:** The mobile applications are proprietary and not publicly available. I can demonstrate them during an interview upon request.
+
+---
+
 ### 📂 Featured Projects
 
-- **[Chat App](https://github.com/Omar-Alomary/Chat-App)** – Real-time group chat application built with Flutter & Firebase.
+- **[Chat App](https://github.com/Omar-Alomary/Chat-App)** – Real-time group chat application built with Flutter & Firebase (Learning Project).
 - **[CV Builder](https://github.com/Omar-Alomary/CV-Builder)** – Mobile app that generates ATS-friendly CVs with multiple templates and PDF export.
 
 ---
@@ -54,4 +66,3 @@ I'm a Software Engineer with 4+ years of experience in software development, inc
 ---
 
 ⭐️ From [Omar-Alomary](https://github.com/Omar-Alomary)
-
